@@ -1,0 +1,76 @@
+
+
+html, body {
+  height: 100%;
+  margin: 0;
+  background: #F0F0F0;
+  
+}
+
+.full-height {
+  height: 100%;
+  
+}
+
+
+div.full-height {
+  
+  display:flex;
+  transform: translate(0%, 40%);
+  text-align: center;
+  align-items: baseline;
+  justify-content: center;
+  
+  
+  
+  }
+
+
+    
+p {
+
+margin: 0;
+padding:0;
+
+//line-height: 80%;
+
+text-align: center;
+
+color: #3D3D3D;
+
+}
+
+#daysText{
+
+font-size: 200px;
+color: #404040;
+
+}
+
+#hoursText{
+
+font-size: 100px;
+color: #595959;
+
+}
+
+#minText{
+
+font-size: 50px;
+color: #737373;
+
+}
+
+#secText{
+
+font-size: 25px;
+color: #737373;
+
+}
+
+
+
+
+
+
+
